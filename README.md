@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:aggimallaabhishek@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-aggimallaabhishek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-abhishek.aggimalla.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/aggimalla-abhishek" target="_blank">
